@@ -1,6 +1,6 @@
 # TestGem
 
-TODO: Write a gem description
+gem のテスト
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    obj = TestGem::Hoge.new
+    obj.hoge
 
 ## Contributing
 
